@@ -1,3 +1,7 @@
+[![Code Climate](https://codeclimate.com/github/martin-majlis/chrome-extension-messaging/badges/gpa.svg)](https://codeclimate.com/github/martin-majlis/chrome-extension-messaging)
+[![Issue Count](https://codeclimate.com/github/martin-majlis/chrome-extension-messaging/badges/issue_count.svg)](https://codeclimate.com/github/martin-majlis/chrome-extension-messaging)
+[![Code Health](https://landscape.io/github/martin-majlis/chrome-extension-messaging/master/landscape.svg?style=flat)](https://landscape.io/github/martin-majlis/chrome-extension-messaging/master)
+
 # chrome-extension-messaging
 
 ## Motivation
